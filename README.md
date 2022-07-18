@@ -1,4 +1,6 @@
-# duo-lang-client
+# Visual Studio Code plugin for the Duo language
+[![vscode-plugin](https://github.com/duo-lang/vscode-plugin/actions/workflows/vscode-plugin.yml/badge.svg)](https://github.com/duo-lang/vscode-plugin/actions/workflows/vscode-plugin.yml)
+[![vscode-plugin-ci](https://github.com/duo-lang/vscode-plugin/actions/workflows/vscode-plugin-ci.yml/badge.svg)](https://github.com/duo-lang/vscode-plugin/actions/workflows/vscode-plugin-ci.yml)
 
 ## Build the Visual Studio Code extension
 

@@ -20,5 +20,5 @@ jobs:
           prerelease: false
           title: "VSCode Extension"
           files: |
-            duolang-client-0.0.1.vsix
+            duo-lang-client-0.0.1.vsix
 

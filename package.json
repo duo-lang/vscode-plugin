@@ -6,7 +6,7 @@
 	"publisher": "duo-lang",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/ps-tuebingen/duo-lang"
+		"url": "https://github.com/duo-lang/vscode-plugin"
 	},
 	"engines": {
 		"vscode": "^1.60.0"
